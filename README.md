@@ -5,72 +5,111 @@
   <img src="https://komarev.com/ghpvc/?username=venkatesh-reddy-prog&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-Welcome to my GitHub profile!  
-I’m a backend-focused **AI Full Stack Developer** with hands-on experience building secure APIs, integrating **Large Language Models (LLMs)**, and deploying production-ready applications.
+I’m a backend-oriented **AI Full Stack Developer** with hands-on experience building secure APIs, integrating **Large Language Models (LLMs)**, and deploying production-ready applications.
 
 ---
 
-## 👨‍💻 About Me
+## 🎯 Career Objective
 
-- 💡 Backend-oriented **AI Full Stack Developer**
-- 🧠 Experienced in building **LLM-powered applications**, RESTful APIs, and secure authentication workflows
-- ⚙️ Comfortable across **backend, AI integration, databases, and DevOps**
-- 🏢 Former **Software Development Intern at SAP Labs India**
-- 🚀 Actively exploring real-world AI application development and scalable backend systems
+Backend-oriented **AI Full Stack Developer** with hands-on experience building **RESTful APIs**, **secure authentication workflows**, and **AI-powered backend systems**.  
+Seeking **entry-level / fresher opportunities** to contribute to **scalable server-side architectures** and **production-ready AI applications**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎓 Education
 
-### 🚀 Backend & APIs
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=flat)
-![JWT](https://img.shields.io/badge/JWT-Authentication-orange?style=flat)
+**Master of Technology (M.Tech) – Computer Science**  
+📍 SRM University, Amaravati, AP  
+🗓️ 2023 – 2025  
+
+**Bachelor of Technology (B.Tech) – Computer Science**  
+📍 SRM University, Amaravati, AP  
+🗓️ 2019 – 2023  
+
+---
+
+## 🛠️ Skills Dashboard
+
+### 🧩 Backend Engineering
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RESTful_APIs-blue?style=flat"/>
+  <img src="https://img.shields.io/badge/JWT-Authentication-orange?style=flat"/>
+  <img src="https://img.shields.io/badge/Authorization-Security-critical?style=flat"/>
+</p>
 
 ### 🤖 AI / Machine Learning
-![LLMs](https://img.shields.io/badge/LLMs-AI-blueviolet?style=flat)
-![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-purple?style=flat)
-![NLP](https://img.shields.io/badge/NLP-Processing-green?style=flat)
-![Embeddings](https://img.shields.io/badge/Embeddings-Semantic_Search-yellow?style=flat)
+<p>
+  <img src="https://img.shields.io/badge/LLMs-AI-blueviolet?style=flat"/>
+  <img src="https://img.shields.io/badge/NLP-Text_Processing-green?style=flat"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-purple?style=flat"/>
+  <img src="https://img.shields.io/badge/Embeddings-Semantic_Search-yellow?style=flat"/>
+  <img src="https://img.shields.io/badge/API_Integration-LLM_Services-informational?style=flat"/>
+</p>
 
 ### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+</p>
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+### 🎨 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+</p>
 
 ### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat&logo=amazonaws)
-![CI/CD](https://img.shields.io/badge/CI/CD-Pipelines-success?style=flat)
-![Linux](https://img.shields.io/badge/Linux-OS-black?style=flat&logo=linux)
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-Pipelines-success?style=flat"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=flat&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Linux-OS-black?style=flat&logo=linux"/>
+</p>
+
+### 🧠 Computer Science Fundamentals
+<p>
+  <img src="https://img.shields.io/badge/Data_Structures-Algorithms-blue?style=flat"/>
+  <img src="https://img.shields.io/badge/SQL-Queries-informational?style=flat"/>
+  <img src="https://img.shields.io/badge/Git-Version_Control-red?style=flat&logo=git"/>
+</p>
+
+---
+
+## 💼 Experience
+
+### Software Development Intern (Backend / DevOps)  
+**SAP Labs India**  
+🗓️ Aug 2024 – Jun 2025  
+
+- Developed and maintained **backend APIs and utility services** in **Python** on **Linux-based systems**, supporting internal production workflows.  
+- Contributed to **CI/CD pipelines** for automated build, testing, and deployment, improving release stability and reducing manual intervention.  
+- Used **Docker and Git** for containerization, debugging, and issue resolution in collaboration with senior engineers.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 AI-Powered Resume Analyzer & Job Matching System
-- Built a full-stack application using **LLMs** for resume–job semantic matching.
-- Designed **RESTful APIs** with **FastAPI** and **JWT-based authentication**.
-- Implemented **embeddings** for similarity search.
-- Used **PostgreSQL** for structured data storage.
+- Built a full-stack application to analyze resumes and match them with job descriptions using **LLMs**.
+- Designed **RESTful APIs** using **FastAPI** with **JWT-based authentication**.
+- Implemented **embeddings** for semantic similarity matching.
+- Stored user data and results in **PostgreSQL**.
 
-**Tech Stack:** Python, FastAPI, LLMs, PostgreSQL  
+**Tech Stack:** Python, FastAPI, LLMs, PostgreSQL, REST APIs  
 🔗 *Repository link coming soon*
 
 ---
 
 ### 🔹 Intelligent Customer Support Chatbot
-- Developed an **LLM-powered chatbot** for contextual Q&A.
-- Applied **prompt engineering** to improve response accuracy.
-- Used **embeddings** to maintain conversation memory.
-- Stored chat logs in **MongoDB**.
+- Developed an **LLM-powered chatbot** capable of contextual question answering.
+- Applied **prompt engineering** techniques to improve response quality.
+- Used **embeddings** to maintain multi-turn conversational context.
+- Persisted chat history using **MongoDB**.
 
 **Tech Stack:** Python, NLP, Prompt Engineering, MongoDB  
 🔗 *Repository link coming soon*
@@ -78,12 +117,11 @@ I’m a backend-focused **AI Full Stack Developer** with hands-on experience bui
 ---
 
 ### 🔹 Secure Backend API for AI Applications
-- Designed secure **RESTful APIs** with authentication & authorization.
-- Containerized services using **Docker**.
-- Deployed on **AWS Linux instances** with **CI/CD pipelines**.
+- Designed and implemented **secure RESTful APIs** with authentication and authorization.
+- Containerized backend services using **Docker**.
+- Deployed services on **AWS Linux instances** with basic **CI/CD pipelines**.
 
 **Tech Stack:** FastAPI, Docker, AWS, CI/CD  
-🔗 *Repository link coming soon*
 
 ---
 
@@ -98,9 +136,9 @@ I’m a backend-focused **AI Full Stack Developer** with hands-on experience bui
 
 ## 🧠 Problem Solving & Practice
 
-- 🔗 [HackerRank](https://www.hackerrank.com/profile/bvenkateshreddy2)
-- 🔗 [LeetCode](https://leetcode.com/u/Venkatesh070/)
-- 🔗 [GeeksforGeeks](https://www.geeksforgeeks.org/profile/bvenkatess7rn)
+- 🔗 HackerRank: https://www.hackerrank.com/profile/bvenkateshreddy2  
+- 🔗 LeetCode: https://leetcode.com/u/Venkatesh070/  
+- 🔗 GeeksforGeeks: https://www.geeksforgeeks.org/profile/bvenkatess7rn  
 
 ---
 
