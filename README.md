@@ -2,7 +2,7 @@
 ### 💻 AI Full Stack Developer | Backend Engineering (Python, FastAPI) | LLMs, REST APIs, Docker, AWS
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=venkatesh-reddy-prog&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=venkatesh-reddy-prog&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 I’m a backend-oriented **AI Full Stack Developer** with hands-on experience building secure APIs, integrating **Large Language Models (LLMs)**, and deploying production-ready applications.
@@ -125,14 +125,6 @@ Seeking **entry-level / fresher opportunities** to contribute to **scalable serv
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venkatesh-reddy-prog&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh-reddy-prog&layout=compact&theme=default" height="160"/>
-</p>
-
----
 
 ## 🧠 Problem Solving & Practice
 
