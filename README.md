@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About
 
-I am a backend-focused software engineer with 10 months of internship experience at SAP Labs India, where I worked on microservices, REST APIs, and CI/CD workflows in a production environment.
+I am a backend-focused software engineer with nearly 1 year of internship experience at SAP Labs India, where I worked on microservices, REST APIs, and CI/CD workflows in a production environment.
 
 During my internship, I contributed to improving backend performance, automating workflows, and deploying containerized services on cloud platforms. I enjoy building scalable systems and exploring how backend engineering integrates with modern AI applications.
 
