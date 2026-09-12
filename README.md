@@ -93,7 +93,7 @@ FastAPI-based enterprise search service enabling semantic retrieval across inter
 ## 💼 Experience
 
 ### Software Engineer | Contract — Tracxn, Bengaluru
-**Apr 2026 – Aug 2026**
+**Apr 2026 – July 2026**
 
 - Engineered Java/Spring Boot data-processing and Excel export workflows consolidating Income Statement, Balance Sheet, and Cash Flow data across multiple client codebases
 - Built and optimized Google BigQuery pipelines powering **28 time-series API endpoints** for revenue, EBITDA, valuation, and employee metrics using MERGE-based CDC
